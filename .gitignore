@@ -1,1 +1,5 @@
 ArquivosDoCurso/
+/node_modules 
+/jest-cache
+/jest-output
+/coverage
